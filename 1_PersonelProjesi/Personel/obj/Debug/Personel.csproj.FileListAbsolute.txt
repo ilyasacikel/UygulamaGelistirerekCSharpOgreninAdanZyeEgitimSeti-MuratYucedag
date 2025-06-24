@@ -1,0 +1,13 @@
+C:\Users\Ilyas\source\repos\Personel\Personel\bin\Debug\Personel.exe.config
+C:\Users\Ilyas\source\repos\Personel\Personel\bin\Debug\Personel.exe
+C:\Users\Ilyas\source\repos\Personel\Personel\bin\Debug\Personel.pdb
+C:\Users\Ilyas\source\repos\Personel\Personel\obj\Debug\Personel.csproj.AssemblyReference.cache
+C:\Users\Ilyas\source\repos\Personel\Personel\obj\Debug\Personel.Properties.Resources.resources
+C:\Users\Ilyas\source\repos\Personel\Personel\obj\Debug\Personel.csproj.GenerateResource.cache
+C:\Users\Ilyas\source\repos\Personel\Personel\obj\Debug\Personel.csproj.CoreCompileInputs.cache
+C:\Users\Ilyas\source\repos\Personel\Personel\obj\Debug\Personel.exe
+C:\Users\Ilyas\source\repos\Personel\Personel\obj\Debug\Personel.pdb
+C:\Users\Ilyas\source\repos\Personel\Personel\obj\Debug\Personel.FrmIstatistik.resources
+C:\Users\Ilyas\source\repos\Personel\Personel\obj\Debug\Personel.FrmAnaForm.resources
+C:\Users\Ilyas\source\repos\Personel\Personel\obj\Debug\Personel.FrmGrafikler.resources
+C:\Users\Ilyas\source\repos\Personel\Personel\obj\Debug\Personel.FrmGiris.resources
