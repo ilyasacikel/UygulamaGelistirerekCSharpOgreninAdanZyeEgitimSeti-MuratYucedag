@@ -54,6 +54,8 @@ Process.Start(new ProcessStartInfo {
 - Randevu işlemleri: Tüm randevuları listeleme, randevu oluşturma, güncelleme
 - Duyuru oluşturma: Doktorlara duyuru gönderme
 
+---
+
 ## 🧪 Öğrenilen Konular
 - ADO.NET ile veritabanı bağlantısı: SELECT, INSERT, UPDATE, DELETE
 - Formlar arası veri aktarımı (örneğin, giriş yapan kullanıcının adını diğer forma taşımak)
