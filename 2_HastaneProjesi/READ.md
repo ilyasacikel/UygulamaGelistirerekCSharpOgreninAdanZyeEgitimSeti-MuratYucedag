@@ -63,5 +63,15 @@ Process.Start(new ProcessStartInfo {
 - Form.Show() vs Form.ShowDialog() farkları ve kullanım senaryoları
 - Çoklu DataGridView kullanımı
 
+## 📌 Ekran Görüntüleri
+- Projeme ait bazı ekran görüntüleri
+  
+![image](https://github.com/user-attachments/assets/80bbb91a-2d6e-49a8-88b9-7a99d4abf2d9)
 
-🧑‍🏫 Bu proje, Murat Yücedağ'ın "Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti" Udemy kursunun bir parçası olarak geliştirilmiştir.
+![image](https://github.com/user-attachments/assets/7ef7e4e6-41e0-4ccb-b42c-4c9647a0be7f)
+
+![image](https://github.com/user-attachments/assets/7626b4d4-64f9-45e0-86d1-612bb035ed09)
+
+![image](https://github.com/user-attachments/assets/1103dd2c-c732-46d4-8b10-04ff660873f2)
+
+![image](https://github.com/user-attachments/assets/5c5cd56c-0ab0-447e-826d-46ade6788a66)
