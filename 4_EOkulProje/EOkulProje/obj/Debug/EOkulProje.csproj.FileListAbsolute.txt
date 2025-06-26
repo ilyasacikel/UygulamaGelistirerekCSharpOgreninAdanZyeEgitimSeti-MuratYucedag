@@ -1,0 +1,16 @@
+C:\Users\Ilyas\source\repos\EOkulProje\EOkulProje\bin\Debug\EOkulProje.exe.config
+C:\Users\Ilyas\source\repos\EOkulProje\EOkulProje\bin\Debug\EOkulProje.exe
+C:\Users\Ilyas\source\repos\EOkulProje\EOkulProje\bin\Debug\EOkulProje.pdb
+C:\Users\Ilyas\source\repos\EOkulProje\EOkulProje\obj\Debug\EOkulProje.csproj.AssemblyReference.cache
+C:\Users\Ilyas\source\repos\EOkulProje\EOkulProje\obj\Debug\EOkulProje.Properties.Resources.resources
+C:\Users\Ilyas\source\repos\EOkulProje\EOkulProje\obj\Debug\EOkulProje.csproj.GenerateResource.cache
+C:\Users\Ilyas\source\repos\EOkulProje\EOkulProje\obj\Debug\EOkulProje.csproj.CoreCompileInputs.cache
+C:\Users\Ilyas\source\repos\EOkulProje\EOkulProje\obj\Debug\EOkulProje.exe
+C:\Users\Ilyas\source\repos\EOkulProje\EOkulProje\obj\Debug\EOkulProje.pdb
+C:\Users\Ilyas\source\repos\EOkulProje\EOkulProje\obj\Debug\EOkulProje.FrmOgrenciNotlar.resources
+C:\Users\Ilyas\source\repos\EOkulProje\EOkulProje\obj\Debug\EOkulProje.FrmOgretmen.resources
+C:\Users\Ilyas\source\repos\EOkulProje\EOkulProje\obj\Debug\EOkulProje.FrmKulupIslemleri.resources
+C:\Users\Ilyas\source\repos\EOkulProje\EOkulProje\obj\Debug\EOkulProje.FrmDersler.resources
+C:\Users\Ilyas\source\repos\EOkulProje\EOkulProje\obj\Debug\EOkulProje.FrmOgrenciIslemleri.resources
+C:\Users\Ilyas\source\repos\EOkulProje\EOkulProje\obj\Debug\EOkulProje.FrmSinavNotlar.resources
+C:\Users\Ilyas\source\repos\EOkulProje\EOkulProje\obj\Debug\EOkulProje.AnaForm.resources
